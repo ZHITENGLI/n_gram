@@ -26,7 +26,7 @@ Similar to Lidstone Smoothing, we encapsulate the interpolation smoothing into a
 
 Unlike the previous two smoothing methods, Good Turing Discounting uses 2-gram instead of 3-gram, but you can easily expand it to 3-gram, just pass the corresponding parameters and nothing to change in the class.
 
-## Test
+## Testing
 
 ### Preprocessing
 
